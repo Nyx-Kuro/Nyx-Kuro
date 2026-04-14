@@ -1,61 +1,64 @@
-# <div align="center">🌑 Nyx-Kuro • <i>Mistress of the Digital Night</i> 🗡️</div>                                                                                                                                                                                  │
-│  2                                                                                                                                                                                                                                                                    │
-│  3 <div align="center">                                                                                                                                                                                                                                               │
-│  4   <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=250&section=header&text=NYX%20KURO&fontSize=90&animation=fadeIn&fontAlignY=40&desc=Code%20Born%20from%20Shadows&descAlignY=65&descSize=20&fontColor=ffffff" width="100%" />     │
-│  5 </div>                                                                                                                                                                                                                                                             │
-│  6                                                                                                                                                                                                                                                                    │
-│  7 <br />                                                                                                                                                                                                                                                             │
-│  8                                                                                                                                                                                                                                                                    │
-│  9 ### 🗡️ **O Caminho da Lâmina & Da Noite**                                                                                                                                                                                                                          │
-│ 10 > *"Na escuridão absoluta, a precisão do código é a única luz necessária."*                                                                                                                                                                                        │
-│ 11                                                                                                                                                                                                                                                                    │
-│ 12 Sou um desenvolvedor focado em interfaces imersivas e arquiteturas sólidas, onde o minimalismo japonês encontra o poder da Deusa **Nyx**.                                                                                                                          │
-│ 13                                                                                                                                                                                                                                                                    │
-│ 14 ---                                                                                                                                                                                                                                                                │
-│ 15                                                                                                                                                                                                                                                                    │
-│ 16 ### 🌌 **Minhas Constelações (Tech Stack)**                                                                                                                                                                                                                        │
-│ 17                                                                                                                                                                                                                                                                    │
-│ 18 <div align="center">                                                                                                                                                                                                                                               │
-│ 19   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />                                                                                                                                                          │
-│ 20   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />                                                                                                                                                 │
-│ 21   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />                                                                                                                                                     │
-│ 22   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />                                                                                                                                                  │
-│ 23   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />                                                                                                                                                     │
-│ 24 </div>                                                                                                                                                                                                                                                             │
-│ 25                                                                                                                                                                                                                                                                    │
-│ 26 <br />                                                                                                                                                                                                                                                             │
-│ 27                                                                                                                                                                                                                                                                    │
-│ 28 ### 🌒 **Visões Noturnas (GitHub Stats)**                                                                                                                                                                                                                          │
-│ 29                                                                                                                                                                                                                                                                    │
-│ 30 <div align="center">                                                                                                                                                                                                                                               │
-│ 31   <img src="https://github-readme-stats.vercel.app/api?username=P-Vinicius-CS&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ffb7c5&text_color=ffffff&icon_color=ffb7c5&hide_border=true" height="170px" />                                          │
-│ 32   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Vinicius-CS&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffb7c5&text_color=ffffff&hide_border=true" height="170px" />                                                  │
-│ 33 </div>                                                                                                                                                                                                                                                             │
-│ 34                                                                                                                                                                                                                                                                    │
-│ 35 <br />                                                                                                                                                                                                                                                             │
-│ 36                                                                                                                                                                                                                                                                    │
-│ 37 ### 🌘 **Atividade nas Sombras**                                                                                                                                                                                                                                   │
-│ 38                                                                                                                                                                                                                                                                    │
-│ 39 <div align="center">                                                                                                                                                                                                                                               │
-│ 40   <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Vinicius-CS&theme=tokyonight&background=000000&stroke=ffb7c5&ring=ffb7c5&fire=ffb7c5&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" />    │
-│ 41 </div>                                                                                                                                                                                                                                                             │
-│ 42                                                                                                                                                                                                                                                                    │
-│ 43 <br />                                                                                                                                                                                                                                                             │
-│ 44                                                                                                                                                                                                                                                                    │
-│ 45 ---                                                                                                                                                                                                                                                                │
-│ 46                                                                                                                                                                                                                                                                    │
-│ 47 ### 📫 **Entre em Contato com a Noite**                                                                                                                                                                                                                            │
-│ 48 <div align="center">                                                                                                                                                                                                                                               │
-│ 49   <a href="mailto:pauloviniciusslsantos@gmail.com">                                                                                                                                                                                                                │
-│ 50     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />                                                                                                                                                         │
-│ 51   </a>                                                                                                                                                                                                                                                             │
-│ 52   <a href="https://www.linkedin.com/in/SEU_LINKEDIN">                                                                                                                                                                                                              │
-│ 53     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />                                                                                                                                                   │
-│ 54   </a>                                                                                                                                                                                                                                                             │
-│ 55 </div>                                                                                                                                                                                                                                                             │
-│ 56                                                                                                                                                                                                                                                                    │
-│ 57 <br />                                                                                                                                                                                                                                                             │
-│ 58                                                                                                                                                                                                                                                                    │
-│ 59 <div align="center">                                                                                                                                                                                                                                               │
-│ 60   <img src="https://quotes-github-readme.vercel.app/api?quote=Shadows%20are%20not%20the%20absence%20of%20light,%20but%20the%20cradle%20of%20creation.&theme=tokyonight&bg_color=000000" />                                                                         │
-│ 61 </div>            
+# <div align="center">🌑 Nyx-Kuro • <i>Lord of the Digital Night</i> 🗡️</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFB7C5&center=true&vCenter=true&width=600&lines=I+am+Nyx-Kuro;Master+of+the+Digital+Void;The+Cyber+Shogun;Code+Born+from+Shadows" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/P-Vinicius-CS/Nyx-portfolioV2/main/src/assets/fundo.png" width="100%" style="border-radius: 10px; border: 1px solid #30363d;" />
+</div>
+
+<br />
+
+<div align="center">
+  
+  ### 🗡️ **THE WAY OF THE SHADOWS**
+  *"Precision in silence. Power in the darkness."*
+  
+  ---
+  
+  [**PORTFOLIO**](https://p-vinicius-cs.github.io/Nyx-portfolioV2/) • [**LINKEDIN**](https://linkedin.com/in/SEU_LINKEDIN) • [**EMAIL**](mailto:pauloviniciusslsantos@gmail.com)
+  
+  ---
+</div>
+
+### 🌌 **ARSENAL & CONSTELLATIONS**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs,nodejs,go,rust,framer,tailwind,figma,git,docker,postgres,linux,vscode" />
+</div>
+
+<br />
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🌒 NIGHTLY STATS</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=P-Vinicius-CS&show_icons=true&theme=tokyonight&bg_color=000000&title_color=ffb7c5&text_color=ffffff&icon_color=ffb7c5&hide_border=true" width="100%" />
+      </td>
+      <td width="50%">
+        <h3 align="center">🌸 SAKURA FLOW</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Vinicius-CS&layout=compact&theme=tokyonight&bg_color=000000&title_color=ffb7c5&text_color=ffffff&hide_border=true" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+### 🌒 **SHADOW STRIKES (COMMIT ACTIVITY)**
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=P-Vinicius-CS&theme=tokyonight&bg_color=000000&color=ffb7c5&line=ffb7c5&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?quote=In%20the%20heart%20of%20the%20night,%20the%20blade%20finds%20its%20truth.&theme=tokyonight&bg_color=000000" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nyx-Kuro&color=ffb7c5&style=for-the-badge&label=SHADOWS+VISITED" alt="Visitor Count" />
+</div>
