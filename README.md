@@ -10,7 +10,6 @@
 
 <div align="center">
   
-![snake animation](https://github.com/Nyx-Kuro/Nyx-Kuro/blob/output/github-contribution-grid-snake2.svg)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e8e8e8)](https://Nyx-Kuro.github.io/Nyx-portfolioV2/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e8e8e8)](https://linkedin.com/in/Nyx-Kuro)&nbsp;
 [![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=CC2222)](mailto:pauloviniciusslsantos@gmail.com)&nbsp;
@@ -178,7 +177,7 @@ Blazing fast Rust core. No noise.
 <div align="center">
 
 ## `CONTRIBUTION SNAKE`
-
+![snake animation](https://github.com/Nyx-Kuro/Nyx-Kuro/blob/output/github-contribution-grid-snake2.svg)
 </div>
 
 <div align="center">
