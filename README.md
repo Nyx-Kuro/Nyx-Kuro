@@ -9,7 +9,8 @@
 <br/>
 
 <div align="center">
-
+  
+![snake animation](https://github.com/Nyx-Kuro/Nyx-Kuro/blob/output/github-contribution-grid-snake2.svg)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=e8e8e8)](https://Nyx-Kuro.github.io/Nyx-portfolioV2/)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=e8e8e8)](https://linkedin.com/in/Nyx-Kuro)&nbsp;
 [![Email](https://img.shields.io/badge/EMAIL-0a0a0a?style=for-the-badge&logo=gmail&logoColor=CC2222)](mailto:pauloviniciusslsantos@gmail.com)&nbsp;
@@ -207,5 +208,7 @@ Blazing fast Rust core. No noise.
 </div>
 
 <div align="center">
+
+  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" width="100%" />
 </div>
